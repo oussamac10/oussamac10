@@ -50,6 +50,19 @@
       <p><code>TypeScript</code> <code>Next.js</code> <code>Docker</code> <code>Nginx</code> <code>CI/CD</code></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/oussamac10/Ai-application-assistant">Ai-application-assistant</a></h3>
+      <p>Multilingual AI form assistant that bridges language gaps by separating <code>sourceLanguage</code>, <code>userLanguage</code>, and <code>outputLanguage</code> to guide users step-by-step through complex forms.</p>
+      <p>
+        <strong>Highlights:</strong><br/>
+        • FastAPI + Next.js + PostgreSQL + Docker Compose foundation<br/>
+        • Guided field-by-field normalization &amp; validation workflow<br/>
+        • Automated CI checks
+      </p>
+      <p><code>TypeScript</code> <code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>Docker</code> <code>LLM</code></p>
+    </td>
+  </tr>
 </table>
 
 ---
