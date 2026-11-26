@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Backend+%26+API+Architecture;AI+Agents+%26+MCP+Servers;Docker+%26+Workflow+Automation;Production-Ready+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FACC15&center=true&vCenter=true&width=560&lines=Backend+%26+API+Architecture;AI+Agents+%26+MCP+Servers;Docker+%26+Workflow+Automation;Production-Ready+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Germany-0f172a?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI%20Engineering-1e3a8a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20PHP%20%7C%20TypeScript%20%7C%20Docker-0284c7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Germany-181316?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI%20Engineering-b45309?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20PHP%20%7C%20TypeScript%20%7C%20Docker-d97706?style=flat-square" />
 </p>
 
 ---
@@ -79,9 +79,9 @@
 
 **AI & Automation**
 
-![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-0f172a?style=for-the-badge)
-![MCP Servers](https://img.shields.io/badge/MCP_Servers-1e3a8a?style=for-the-badge)
-![Worker Pipelines](https://img.shields.io/badge/Worker_Pipelines-0284c7?style=for-the-badge)
+![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-181316?style=for-the-badge)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-b45309?style=for-the-badge)
+![Worker Pipelines](https://img.shields.io/badge/Worker_Pipelines-d97706?style=for-the-badge)
 
 **DevOps & Frontend**
 
