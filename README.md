@@ -1,97 +1,50 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Oussama Chajii - Backend &amp; AI Engineer" width="100%" />
+  <img src="./assets/zenitsu-hero.svg" alt="Oussama Chajii - Backend &amp; AI Engineer" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FACC15&center=true&vCenter=true&width=560&lines=Backend+%26+API+Architecture;AI+Agents+%26+MCP+Servers;Docker+%26+Workflow+Automation;Production-Ready+Systems" alt="Typing SVG" />
-</div>
+### About
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Germany-181316?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI%20Engineering-b45309?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20PHP%20%7C%20TypeScript%20%7C%20Docker-d97706?style=flat-square" />
-</p>
+Backend and AI engineer focused on reliable APIs, Dockerized infrastructure, MCP server integrations, and automated worker pipelines. I build end-to-end systems designed for clarity, automated testing, and predictable deployment.
 
 ---
 
-### About Me
+### Selected Work
 
-- Building **production backend systems, REST APIs, and Dockerized services**
-- Designing **AI workflows, MCP server integrations, and background worker pipelines**
-- Focused on **clean architecture, automated testing, and reliable deployments**
-- Experienced across **Python (FastAPI), PHP (Symfony / TYPO3), TypeScript (Nuxt / Next.js), and PostgreSQL**
+#### [etsy-automation](https://github.com/oussamac10/etsy-automation)
+End-to-end AI and workflow automation pipeline for print-on-demand: market scoring, AI asset generation, print-ready image processing, and listing preparation.
+- FastAPI backend paired with asynchronous background workers and PostgreSQL persistence
+- Docker Compose orchestration, Nuxt 3 frontend, and an automated Playwright + backend test suite (98 test files)
 
----
+`Python` · `FastAPI` · `PostgreSQL` · `Nuxt 3` · `Docker`
 
-### Featured Projects
+<br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/oussamac10/etsy-automation">etsy-automation</a></h3>
-      <p>End-to-end AI &amp; workflow automation pipeline for print-on-demand: market scoring, AI asset generation, print-ready image processing, and automated listing preparation.</p>
-      <p>
-        <strong>Highlights:</strong><br/>
-        • FastAPI backend + asynchronous worker pipelines<br/>
-        • PostgreSQL persistence &amp; Docker Compose setup<br/>
-        • Nuxt 3 / Vue 3 frontend &amp; Playwright / backend test suite (98 test files)
-      </p>
-      <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Nuxt 3</code> <code>Docker</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/oussamac10/docker-mastery">docker-mastery</a></h3>
-      <p>AI-assisted DevOps &amp; Docker environment generator featuring a stack analyzer, multi-service orchestration templates, and security-first container defaults.</p>
-      <p>
-        <strong>Highlights:</strong><br/>
-        • Stack analyzer &amp; Dockerfile / Compose generator API<br/>
-        • Automated Docker Build &amp; Push CI pipeline<br/>
-        • <a href="https://docker-mastery-frontend.vercel.app"><strong>Live Demo</strong></a> deployed on Vercel
-      </p>
-      <p><code>TypeScript</code> <code>Next.js</code> <code>Docker</code> <code>Nginx</code> <code>CI/CD</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/oussamac10/Ai-application-assistant">Ai-application-assistant</a></h3>
-      <p>Multilingual AI form assistant that bridges language gaps by separating <code>sourceLanguage</code>, <code>userLanguage</code>, and <code>outputLanguage</code> to guide users step-by-step through complex forms.</p>
-      <p>
-        <strong>Highlights:</strong><br/>
-        • FastAPI + Next.js + PostgreSQL + Docker Compose foundation<br/>
-        • Guided field-by-field normalization &amp; validation workflow<br/>
-        • Automated CI checks
-      </p>
-      <p><code>TypeScript</code> <code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>Docker</code> <code>LLM</code></p>
-    </td>
-  </tr>
-</table>
+#### [docker-mastery](https://github.com/oussamac10/docker-mastery) — [Live Demo](https://docker-mastery-frontend.vercel.app)
+AI-assisted DevOps environment generator featuring stack analysis, multi-service orchestration templates, and security-first container defaults.
+- TypeScript stack analyzer and Dockerfile / Compose generator API with Nginx reverse-proxy setup
+- Automated Docker Build & Push CI pipeline and live Next.js frontend deployed on Vercel
+
+`TypeScript` · `Next.js` · `Docker` · `Nginx` · `CI/CD`
+
+<br/>
+
+#### [Ai-application-assistant](https://github.com/oussamac10/Ai-application-assistant)
+Multilingual AI form assistant bridging language barriers by separating `sourceLanguage`, `userLanguage`, and `outputLanguage` for guided form completion.
+- FastAPI, Next.js, PostgreSQL, and Docker Compose foundation with automated CI checks
+- Guided field-by-field normalization, validation, and confirmation workflow
+
+`TypeScript` · `Python` · `FastAPI` · `Next.js` · `Docker` · `LLM`
 
 ---
 
 ### Tech Stack
 
-**Backend & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI & Automation**
-
-![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-181316?style=for-the-badge)
-![MCP Servers](https://img.shields.io/badge/MCP_Servers-b45309?style=for-the-badge)
-![Worker Pipelines](https://img.shields.io/badge/Worker_Pipelines-d97706?style=for-the-badge)
-
-**DevOps & Frontend**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Nuxt 3](https://img.shields.io/badge/Nuxt_3-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+| Area | Technologies |
+| :--- | :--- |
+| **Backend & Data** | ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=FACC15) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=FACC15) ![PHP](https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=FACC15) ![Symfony](https://img.shields.io/badge/Symfony-161b22?style=flat-square&logo=symfony&logoColor=FACC15) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=FACC15) |
+| **AI & Automation** | ![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-161b22?style=flat-square&labelColor=161b22) ![MCP Servers](https://img.shields.io/badge/MCP_Servers-161b22?style=flat-square&labelColor=161b22) ![Background Workers](https://img.shields.io/badge/Background_Workers-161b22?style=flat-square&labelColor=161b22) ![Playwright](https://img.shields.io/badge/Playwright-161b22?style=flat-square&logo=playwright&logoColor=FACC15) |
+| **DevOps & Frontend** | ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=FACC15) ![Nginx](https://img.shields.io/badge/Nginx-161b22?style=flat-square&logo=nginx&logoColor=FACC15) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=FACC15) ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=FACC15) ![Nuxt 3](https://img.shields.io/badge/Nuxt_3-161b22?style=flat-square&logo=nuxtdotjs&logoColor=FACC15) ![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=FACC15) |
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="Footer wave" width="100%" />
+  <img src="./assets/zenitsu-divider.svg" alt="" width="100%" />
 </div>
