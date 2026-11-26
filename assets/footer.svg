@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="100%" height="80" role="img" aria-label="Footer wave">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <clipPath id="footerClip">
+      <rect width="1200" height="80" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#footerClip)">
+    <path d="M0,28 C280,68 560,2 860,36 C1020,54 1120,24 1200,32 L1200,80 L0,80 Z" fill="url(#footerGrad)"/>
+    <path d="M0,48 C340,18 680,72 1020,40 C1100,32 1160,42 1200,48 L1200,80 L0,80 Z" fill="#ffffff" fill-opacity="0.07"/>
+  </g>
+</svg>
