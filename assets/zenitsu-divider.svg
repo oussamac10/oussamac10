@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 28" width="100%" height="28" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="divLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#9a3412" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#facc15" stop-opacity="0.95"/>
+      <stop offset="75%" stop-color="#9a3412" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="40" y1="14" x2="578" y2="14" stroke="url(#divLine)" stroke-width="1.2"/>
+  <line x1="622" y1="14" x2="1160" y2="14" stroke="url(#divLine)" stroke-width="1.2"/>
+  <polygon points="600,5 607,14 600,23 593,14" fill="#facc15"/>
+  <polygon points="600,9 603.5,14 600,19 596.5,14" fill="#0d1117"/>
+</svg>
