@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0284c7&height=180&section=header&text=Oussama%20Chajii&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer&descAlignY=60&descSize=18" width="100%" />
+  <img src="./assets/header.svg" alt="Oussama Chajii - Backend &amp; AI Engineer" width="100%" />
 </div>
 
 <div align="center">
@@ -80,5 +80,5 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0284c7&height=100&section=footer" width="100%" />
+  <img src="./assets/footer.svg" alt="Footer wave" width="100%" />
 </div>
