@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="100%" height="230" role="img" aria-label="Oussama Chajii - Backend &amp; AI Engineer">
+  <defs>
+    <linearGradient id="heroSurface" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="65%" stop-color="#141115"/>
+      <stop offset="100%" stop-color="#1f150e"/>
+    </linearGradient>
+    <radialGradient id="amberGlow" cx="84%" cy="48%" r="44%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.26"/>
+      <stop offset="48%" stop-color="#9a3412" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="lightningStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a"/>
+      <stop offset="50%" stop-color="#facc15"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="urokoFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#fde68a" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.13"/>
+    </linearGradient>
+    <filter id="sparkGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="heroClip">
+      <rect x="0.5" y="0.5" width="1199" height="229" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#heroClip)">
+    <rect width="1200" height="230" fill="url(#heroSurface)"/>
+    <rect width="1200" height="230" fill="url(#amberGlow)"/>
+
+    <!-- Minimalist Zenitsu haori uroko triangle grid fading cleanly from right to left -->
+    <g fill="url(#urokoFade)">
+      <!-- Row 1 -->
+      <polygon points="810,20 834,62 786,62"/>
+      <polygon points="870,20 894,62 846,62"/>
+      <polygon points="930,20 954,62 906,62"/>
+      <polygon points="990,20 1014,62 966,62"/>
+      <polygon points="1050,20 1074,62 1026,62"/>
+      <polygon points="1110,20 1134,62 1086,62"/>
+      <polygon points="1170,20 1194,62 1146,62"/>
+      <!-- Row 2 (offset) -->
+      <polygon points="780,76 804,118 756,118"/>
+      <polygon points="840,76 864,118 816,118"/>
+      <polygon points="900,76 924,118 876,118"/>
+      <polygon points="960,76 984,118 936,118"/>
+      <polygon points="1020,76 1044,118 996,118"/>
+      <polygon points="1080,76 1104,118 1056,118"/>
+      <polygon points="1140,76 1164,118 1116,118"/>
+      <!-- Row 3 -->
+      <polygon points="810,132 834,174 786,174"/>
+      <polygon points="870,132 894,174 846,174"/>
+      <polygon points="930,132 954,174 906,174"/>
+      <polygon points="990,132 1014,174 966,174"/>
+      <polygon points="1050,132 1074,174 1026,174"/>
+      <polygon points="1110,132 1134,174 1086,174"/>
+      <polygon points="1170,132 1194,174 1146,174"/>
+      <!-- Row 4 (offset) -->
+      <polygon points="840,188 864,230 816,230"/>
+      <polygon points="900,188 924,230 876,230"/>
+      <polygon points="960,188 984,230 936,230"/>
+      <polygon points="1020,188 1044,230 996,230"/>
+      <polygon points="1080,188 1104,230 1056,230"/>
+      <polygon points="1140,188 1164,230 1116,230"/>
+    </g>
+
+    <!-- Sharp minimalist golden Thunder Breathing lightning slash -->
+    <g filter="url(#sparkGlow)">
+      <path d="M1078,18 L992,108 L1044,108 L956,212 L1068,118 L1018,118 Z" fill="url(#lightningStroke)" fill-opacity="0.92"/>
+      <path d="M1118,46 L1062,102 L1088,102 L1038,166" fill="none" stroke="#fef08a" stroke-width="1.5" stroke-opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M936,64 L886,104 L912,104 L868,148" fill="none" stroke="#f59e0b" stroke-width="1.4" stroke-opacity="0.45" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <!-- Editorial left-aligned typography -->
+    <text x="56" y="62" fill="#f59e0b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600" letter-spacing="2.5">雷の呼吸  //  BACKEND &amp; AI SYSTEMS</text>
+    <text x="56" y="118" fill="#f8fafc" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-0.5">Oussama Chajii</text>
+    <rect x="56" y="134" width="56" height="3" rx="1.5" fill="#facc15"/>
+    <text x="56" y="168" fill="#94a3b8" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="400">APIs, Dockerized Infrastructure, MCP Servers &amp; Workflow Automation</text>
+    <text x="56" y="196" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">Germany  ·  Python · PHP · TypeScript · Docker</text>
+  </g>
+
+  <!-- Subtle outer 1px border -->
+  <rect x="0.5" y="0.5" width="1199" height="229" rx="12" ry="12" fill="none" stroke="#2b2118" stroke-width="1"/>
+</svg>
